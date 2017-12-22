@@ -1,0 +1,4 @@
+function Explore()
+{
+	this.Explore();
+}
