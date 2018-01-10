@@ -1,4 +1,6 @@
-function Explore()
+class Explore()
 {
-	this.Explore();
+   iamARealFunction() {
+     console.log('OMG JS');
+   }
 }
