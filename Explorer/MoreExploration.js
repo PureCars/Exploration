@@ -1,6 +1,6 @@
 class Explore()
 {
-   iamARealFunction() {
+   iAmARealFunction() {
      console.log('OMG JS');
    }
 }
